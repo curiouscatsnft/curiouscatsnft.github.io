@@ -1,24 +1,24 @@
 {
-    "image": "https://curiouscats.club/assets/collection/images/164.png",
+    "image": "https://curiouscats.club/assets/collection/images/3.png",
     "tokenId": 164,
     "name": "Curious Cats #0164",
     "description": "It is said that cats came from outer space, a parallel universe as ours, the universe predominantly inhibited by Cats! In that Cativerse, cats are the master race. Each cat is an individual, a person, each comprises a unique character. Full of catily emotions of love, hate, anger, playfullness and sadness. They have a great variation in the way of life, from Primitive to Advanced, they are at various stages of chain.",
     "attributes": [
         {
             "trait_type": "Curiosity",
-            "value": "77"
+            "value": "58"
         },
         {
             "trait_type": "Rage",
-            "value": "20"
+            "value": "12"
         },
         {
             "trait_type": "Cuteness",
-            "value": "16"
+            "value": "27"
         },
         {
             "trait_type": "Confidence",
-            "value": "79"
+            "value": "15"
         },
         {
             "trait_type": "Politeness",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "Alpha",
-            "value": "59"
+            "value": "61"
         },
         {
             "trait_type": "Sassy",
-            "value": "15"
+            "value": "84"
         }
     ]
 }

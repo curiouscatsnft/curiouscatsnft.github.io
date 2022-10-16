@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "Curiosity",
-            "value": "68"
+            "value": "60"
         },
         {
             "trait_type": "Rage",
-            "value": "34"
+            "value": "15"
         },
         {
             "trait_type": "Cuteness",
-            "value": "88"
+            "value": "42"
         },
         {
             "trait_type": "Confidence",
-            "value": "80"
+            "value": "44"
         },
         {
             "trait_type": "Politeness",
-            "value": "26"
+            "value": "57"
         },
         {
             "trait_type": "Alpha",
-            "value": "87"
+            "value": "19"
         },
         {
             "trait_type": "Sassy",
-            "value": "18"
+            "value": "71"
         }
     ]
 }
